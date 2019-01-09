@@ -1,2 +1,2 @@
 # anomaly-detection-manufacturing
-Anomaly detection in manufacturing plants from video streams using CNN
+Anomaly detection in video streams of manufacturing plants using CNNs
